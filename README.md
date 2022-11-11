@@ -1,12 +1,12 @@
 # IBM-Project-39400-1660411348
 Personal Expense Tracker Application
-# IBM-Project-39133-1660397104
+# IBM-Project-39400-1660411348
 
 <h3>Basic Details</h3>
 
 | Query | Reply |
 | --- | --- |
-| Project Title | &emsp; <b>CUSTOMER CARE REGISTRY</b> &emsp; |
+| Project Title | &emsp; <b>Personal Expense Tracker Application</b> &emsp; |
 | Project Domain | &emsp; Cloud Application Development &emsp; |
 | Team ID | &emsp; PNT2022TMID51918 &emsp; |
 | Team Size | &emsp; 4 &emsp; |
