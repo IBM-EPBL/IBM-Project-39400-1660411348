@@ -39,7 +39,7 @@ Personal Expense Tracker Application
 
 
 <h3> Technical Architecture </h3>
-![Untitled](https://user-images.githubusercontent.com/93665597/201296168-28c8aa60-1352-4dc2-b2ff-838378cee9c4.png)
+![Personal Expense Tracker](https://user-images.githubusercontent.com/93665597/201296168-28c8aa60-1352-4dc2-b2ff-838378cee9c4.png)
 
 
 
