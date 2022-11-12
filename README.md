@@ -1,6 +1,6 @@
 # IBM-Project-39400-1660411348
 Personal Expense Tracker Application
-# IBM-Project-39400-1660411348
+
 
 <h3>Basic Details</h3>
 
