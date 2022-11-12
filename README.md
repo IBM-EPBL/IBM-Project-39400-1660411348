@@ -18,7 +18,7 @@ Personal Expense Tracker Application
 | Role | Reg. no | Names |
 | --- | :---: | --- |
 | Team Mentor | - | &emsp; Mrs. Sasikala T S |
-| Team Evaluator | - | &emsp;  Mrs. Rejini K|
+| Team Evaluator | - | &emsp;  Mrs. Jothilakshmi S L|
 | Team Leader | 962319104022 | &emsp; Anuraam.S &emsp; &emsp; |
 | Team Members &emsp; | 962319104019 <br/> 962319104030 <br/> 962319104050 | &emsp; G.Ananthapadmanabhan <br/> &emsp; Balachandran.S  <br/>&emsp; Kaneeshma LAJ K K |
 
